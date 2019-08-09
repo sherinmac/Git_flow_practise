@@ -38,17 +38,4 @@ allmonths.forEach(month => {
 })
 console.log(result);
 
-
-//Test  line for  sample commit 1  message
-
-//Test line for   sample  commit 2 message
-
-//Test  line for  sample commit 3  message
-
-//Test  line for  sample commit 4  message
-
-//Sample update message
-
-//Test  line for  sample commit 5  message
-
-//Test  line for  sample commit 6  message
+//Sample test message   for   Commit 7  and older versions    forgot to include   and   one more thing    forgotted  to commit  and   something  more . 
